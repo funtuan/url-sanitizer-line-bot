@@ -1,0 +1,8 @@
+name = "url-sanitizer-line-bot"
+main = "src/index.ts"
+compatibility_date = "2024-03-15"
+
+[vars]
+# 請在 Cloudflare Dashboard 或透過 secret 設定:
+# LINE_CHANNEL_ACCESS_TOKEN = "your_token"
+# LINE_CHANNEL_SECRET = "your_secret"
