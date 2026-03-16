@@ -17,6 +17,16 @@ A LINE messaging bot built with Cloudflare Workers that automatically strips pri
 **Bot Response:**
 `This is a great post! https://www.threads.com/@cherrylee3338/post/DV5p_gukVQs`
 
+## Try It Out
+
+Want to try the bot without any setup? Add it as a LINE friend and start sanitizing URLs immediately:
+
+**[➕ Add as LINE Friend](https://line.me/R/ti/p/@133hhrqm)**
+
+Or scan the QR code from the LINE app using the link above.
+
+Once added, simply send any message containing a URL with tracking parameters and the bot will reply with the cleaned version.
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
